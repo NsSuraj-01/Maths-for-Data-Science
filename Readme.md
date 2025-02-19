@@ -7,3 +7,9 @@
 [Intro to Gradients](https://imswapnilb.medium.com/derivatives-in-data-science-c5d7bd916f17)
 
 [Dimension Reduction Applications](https://link.springer.com/article/10.1007/s10851-019-00902-2#Sec15)
+
+[Singular Value decomposition (Visualized)](https://youtu.be/vSczTbgc8Rc?si=wHn1IQU2wbrwO89C)
+
+[Partial Derivatives and Gradients (Visualized)](https://youtu.be/GkB4vW16QHI?si=RogX0UsGX3IRftA-)
+
+[Hypothesis Testing](https://youtu.be/zJ8e_wAWUzE?si=kqc1-AgM_4_CXH5-)
