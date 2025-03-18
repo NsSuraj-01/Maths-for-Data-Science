@@ -1,3 +1,5 @@
+[Topic wise notes available](https://github.com/DS-AI-GATE/dsai-gate?tab=readme-ov-file)
+
 [Eigen Values and Eigen Vectors](https://medium.com/@maxbrenner-ai/eigenvalues-and-eigenvectors-in-data-science-intuition-and-applications-25dfc4a128af)
 
 [Matrix Decomposition](https://rendazhang.medium.com/matrix-decomposition-series-8-the-principles-and-methods-of-factorization-d7985cb64398)
