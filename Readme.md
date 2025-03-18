@@ -13,3 +13,5 @@
 [Partial Derivatives and Gradients (Visualized)](https://youtu.be/GkB4vW16QHI?si=RogX0UsGX3IRftA-)
 
 [Hypothesis Testing](https://youtu.be/zJ8e_wAWUzE?si=kqc1-AgM_4_CXH5-)
+
+[Orthogonal Projection - consists of results of projections for human face](https://goodboychan.github.io/python/mathematics/icl/2021/03/14/Orthogonal-Projection.html)
